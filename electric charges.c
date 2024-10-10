@@ -2,7 +2,7 @@
 /*
 program to calculate electric bill
 Auther:vienna kimani
-Reg No:CT102/G/2466/24
+Reg No:CT102/G/24668/24
 Date:8/10/2024
 */
 //preprocessor directive-printf(),scanf() 
