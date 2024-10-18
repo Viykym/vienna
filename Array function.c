@@ -1,8 +1,8 @@
 //C functions
 /*
 program for funtion
-Auther:Brian muriuki joseph
-Reg No:CT102/G/22804/24
+Auther:vienna kimani
+Reg No:CT102/G/24668/24
 Date:17/10/2024
 */
 //preprocessor directive-printf(),scanf() 
